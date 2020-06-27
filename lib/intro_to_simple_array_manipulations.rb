@@ -15,6 +15,6 @@ end
 
 
 def using_flatten array
-  
+  array.flatten
   
 end
